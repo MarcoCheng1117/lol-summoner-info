@@ -1,0 +1,13 @@
+# Ignore sensitive files
+config.py
+
+# Ignore temporary files
+*.tmp
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore log files
+*.log
